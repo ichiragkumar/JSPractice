@@ -94,8 +94,6 @@ The longer and more active a user is in the blockchain ecosystem, the higher the
 This distribution model ensures that early users and active participants are rewarded for their **on-chain activity** and engagement with the platform. Users who contribute meaningfully through their civil score, wallet history, and social media engagement will be able to earn significant rewards.
 ## Thanks Notes
 
----
-
 <!-- Header Bar -->
 <div style="background-color: #4A90E2; padding: 10px; text-align: center; color: white; font-size: 24px; font-weight: bold;">
   Thanks for Reading!
