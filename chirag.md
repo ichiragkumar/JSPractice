@@ -88,11 +88,12 @@ The longer and more active a user is in the blockchain ecosystem, the higher the
 ### Other Concepts
 1. **Burning Coins by Mining Cards**: Users can burn their coins by participating in mining card activities to manage the base price and price per hour of WAX tokens.
 2. **User Activity, Referral, and Engagement**: Regular activity, referrals, and overall user engagement increase the chances of earning more WAX tokens.
+![image](https://github.com/user-attachments/assets/bb3c8805-2157-4db5-8313-becf0dba3248)
 
 ---
 
 ## Thanks Notes
-
+---
 This distribution model ensures that early users and active participants are rewarded for their **on-chain activity** and engagement with the platform. Users who contribute meaningfully through their civil score, wallet history, and social media engagement will be able to earn significant rewards.
 ---
 
