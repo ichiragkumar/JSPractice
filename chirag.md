@@ -69,6 +69,8 @@ The rewards will be distributed based on the number of days a user has been acti
 | **1000+ Days**                        | Tier 3                 |
 
 The longer and more active a user is in the blockchain ecosystem, the higher their reward tier.
+![image](https://github.com/user-attachments/assets/958e497e-c2bf-4928-a4a5-2e972c3d253e)
+
 
 ---
 
@@ -89,10 +91,17 @@ The longer and more active a user is in the blockchain ecosystem, the higher the
 
 ---
 
-## Final Notes
+## Thanks Notes
 
 This distribution model ensures that early users and active participants are rewarded for their **on-chain activity** and engagement with the platform. Users who contribute meaningfully through their civil score, wallet history, and social media engagement will be able to earn significant rewards.
-
-Thank you for being part of the WAX community and helping to shape the future of decentralized networks!
+---
 
 ---
+
+Thanks for reading!  
+Follow me on [Twitter @imchiragkumar](https://twitter.com/imchiragkumar).  
+Read my articles at [ichiragkumar.tech](https://ichiragkumar.tech).  
+Check out my images on [Unsplash](https://unsplash.com/@ichiragkumar/).
+
+---
+
