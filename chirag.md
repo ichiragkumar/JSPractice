@@ -1,4 +1,5 @@
 # 500M WAX Token Distribution and User Earning Mechanism
+![image](https://github.com/user-attachments/assets/10a7749a-5586-48bd-88c8-cfd1a92380e6)
 
 ## Total Supply: 500M WAX Tokens
 
